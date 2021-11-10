@@ -28,6 +28,11 @@ This repository is created to keep track of Google IT Automation With Python pro
 - Setting up your Development Environment
 - Regular Expression (REGEX)
 - Testing in Python
+- Improving Software Performance
+- Managing Scarce Resources
+- Advanced Troubleshooting
+- Understanding Errors
+- Finding the Root Cause of a Problem
 
 ## Certificates
 -   [Crash Course on Python](https://www.coursera.org/account/accomplishments/certificate/K9ZASNQ4CNSW "Crash Course on Python")
