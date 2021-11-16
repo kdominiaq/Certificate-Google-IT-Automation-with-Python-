@@ -33,6 +33,11 @@ This repository is created to keep track of Google IT Automation With Python pro
 - Advanced Troubleshooting
 - Understanding Errors
 - Finding the Root Cause of a Problem
+- Automation at Scale
+- Configuration Management
+- Basic Monitoring & Alerting
+- Cloud Computing
+- Using Puppet
 
 ## Certificates
 - [Crash Course on Python](https://www.coursera.org/account/accomplishments/certificate/K9ZASNQ4CNSW "Crash Course on Python")
