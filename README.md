@@ -10,7 +10,7 @@ This repository is created to keep track of Google IT Automation With Python pro
 - [x] [Using Python to Interact with the Operating System](https://www.coursera.org/learn/python-operating-system?specialization=google-it-automation "Using Python to Interact with the Operating System")
 - [x] [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github "Introduction to Git and GitHub")
 - [x] [Troubleshooting and Debugging Techniques](https://www.coursera.org/learn/troubleshooting-debugging-techniques "Troubleshooting and Debugging Techniques")
-- [ ] [Configuration Management and the Cloud](https://www.coursera.org/learn/configuration-management-cloud "Configuration Management and the Cloud")
+- [x] [Configuration Management and the Cloud](https://www.coursera.org/learn/configuration-management-cloud "Configuration Management and the Cloud")
 - [ ] [Automating Real-World Tasks with Python](https://www.coursera.org/learn/automating-real-world-tasks-python "Automating Real-World Tasks with Python")
 
 ----
@@ -35,8 +35,8 @@ This repository is created to keep track of Google IT Automation With Python pro
 - Finding the Root Cause of a Problem
 
 ## Certificates
--   [Crash Course on Python](https://www.coursera.org/account/accomplishments/certificate/K9ZASNQ4CNSW "Crash Course on Python")
+- [Crash Course on Python](https://www.coursera.org/account/accomplishments/certificate/K9ZASNQ4CNSW "Crash Course on Python")
 - [Using Python to Interact with the Operating System](https://www.coursera.org/account/accomplishments/certificate/U8RP6YJY5KNM "Using Python to Interact with the Operating System")
 - [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/certificate/57NH8AR79E3G "Introduction to Git and GitHub")
 - [Troubleshooting and Debugging Techniques](https://www.coursera.org/account/accomplishments/certificate/MMN7B46AWGGS "Troubleshooting and Debugging Techniques")
-
+- [Configuration Management and the Cloud](https://www.coursera.org/account/accomplishments/certificate/CU4MSNVCNRRE)
