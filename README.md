@@ -15,19 +15,6 @@ This repository is created to keep track of Google IT Automation With Python pro
 - [Automating Real-World Tasks with Python](https://www.coursera.org/account/accomplishments/certificate/L3A5RZZP5KJ2)
 -------
 
-## Table of contest
-
-- [x] [Google IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation)
-
-- [x] [Crash Course on Python](https://www.coursera.org/learn/python-crash-course " Crash Course on Python") 
-- [x] [Using Python to Interact with the Operating System](https://www.coursera.org/learn/python-operating-system?specialization=google-it-automation "Using Python to Interact with the Operating System")
-- [x] [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github "Introduction to Git and GitHub")
-- [x] [Troubleshooting and Debugging Techniques](https://www.coursera.org/learn/troubleshooting-debugging-techniques "Troubleshooting and Debugging Techniques")
-- [x] [Configuration Management and the Cloud](https://www.coursera.org/learn/configuration-management-cloud "Configuration Management and the Cloud")
-- [x] [Automating Real-World Tasks with Python](https://www.coursera.org/learn/automating-real-world-tasks-python "Automating Real-World Tasks with Python")
-
-----
-
 ## Acquired skills
 - Using Version Control
 - Troubleshooting & Debugging
@@ -55,3 +42,16 @@ This repository is created to keep track of Google IT Automation With Python pro
 - Building a Solution
 - Creating and Translating Media Files
 - Interacting with Web Services
+
+
+------------------- 
+## Bibliography
+
+- [x] [Google IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation)
+
+- [x] [Crash Course on Python](https://www.coursera.org/learn/python-crash-course " Crash Course on Python") 
+- [x] [Using Python to Interact with the Operating System](https://www.coursera.org/learn/python-operating-system?specialization=google-it-automation "Using Python to Interact with the Operating System")
+- [x] [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github "Introduction to Git and GitHub")
+- [x] [Troubleshooting and Debugging Techniques](https://www.coursera.org/learn/troubleshooting-debugging-techniques "Troubleshooting and Debugging Techniques")
+- [x] [Configuration Management and the Cloud](https://www.coursera.org/learn/configuration-management-cloud "Configuration Management and the Cloud")
+- [x] [Automating Real-World Tasks with Python](https://www.coursera.org/learn/automating-real-world-tasks-python "Automating Real-World Tasks with Python")
