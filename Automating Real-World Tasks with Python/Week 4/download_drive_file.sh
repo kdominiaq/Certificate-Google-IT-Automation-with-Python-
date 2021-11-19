@@ -16,3 +16,7 @@ wget --load-cookies ${COOKIE_FILE} "https://docs.google.com/uc?export=download&c
 
 # Finally, delete the cookie file
 rm ${COOKIE_FILE}
+
+
+# example:
+#  ./download_drive_file.sh 1LePo57dJcgzoK4uiI_48S01Etck7w_5f supplier-data.tar.gz
